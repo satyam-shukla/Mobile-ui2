@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+.sss{
+
+    background-color: aqua;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.container{
+    background-image: url('https://images.unsplash.com/photo-1601641186062-d5cf69a9e525?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.boardcaster{
+    padding: 1rem;
+    background-color: #EF0000;
+    border-radius: 500px;
+}
+.closeBtn{
+    font-size: 2.2rem;
+    color: white;
+    font-weight: 400;
+
+}
+.PREMIUM{
+    background-color: #FFFFFF4D;
+    font-size: 1.4rem;
+    border: 1px solid #fff;
+    border-radius: 1rem;
+}
+.PREMIUM span{
+    font-size: 1.5rem;
+}
+.FREE{
+    background-image: linear-gradient(to right, #A831FF , #00B3FF);
+    border-radius: 1rem;
+}
+.Go{
+    background-image: linear-gradient(to left, #A831FF , #00B3FF);
+    border-radius: 500px;
+    text-align: center; 
+    font-size: 1.7rem;
+    color: #fff;
+    font-weight: 500;
+}
+.magic{
+    height: 5.6rem;
+    width: 5.6rem;
+    border-radius: 50%;
+    background-color: #FFFFFF4D;
+}
+.magic img{
+
+    height: 2.5rem;
+    width: 2.5rem;
+}
+.FREE span{
+    font-size: 1.5rem;
+    color: #fff;
+}
+.videoIcon path{
+    color: #fff;
+}
+
+.gallery img{
+    height: 6rem;
+    width: 100%;
+    padding: 8rem 0;
+
+}
+
+.pictureGalleryText{
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: #00000096;
+}
+.pictureGallery{
+    background-color: #13111165;
+    width: 100%;
+}
+.Multi{
+    color: rgb(107, 103, 103);
+    font-weight: bold;
+}
+.Guest{
+    font-weight: bold;
+    color: #fff;
+}
