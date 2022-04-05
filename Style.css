@@ -101,3 +101,11 @@ body{
     font-weight: bold;
     color: #fff;
 }
+
+.space{
+    padding: 0 3rem;
+}
+
+.space2{
+    padding: 3rem 2rem;
+}
